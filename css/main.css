@@ -1,0 +1,13 @@
+body {
+    background: #675454;
+    color: white;
+}
+
+h1 {
+    color: #d75858;
+}
+
+img {
+    /* Empêche l'image d'être plus large que la page */
+    max-width: 100%;
+}
